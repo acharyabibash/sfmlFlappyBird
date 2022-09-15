@@ -1,0 +1,6 @@
+bin/
+obj/
+*.dll
+CoolGame.cbp
+CoolGame.depend
+CoolGame.layout
