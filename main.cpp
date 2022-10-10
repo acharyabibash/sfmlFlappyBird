@@ -1,9 +1,10 @@
-#include <iostream>
+//#include <iostream>
 #include "Game.hpp"
+#include "DEFINITIONS.hpp"
 
 int main()
 {
-    Sonar::Game ( 800, 600, "SFML Starter");
+    Sonar::Game ( SCREEN_WIDTH, SCREEN_HEIGHT, "Flappy Bird");
     return EXIT_SUCCESS;
 	//random comments
 	//added openal32.dll files to project to avoid future pain
